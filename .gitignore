@@ -1,0 +1,4 @@
+.DS_Store
+/virt
+.vscode/launch.json
+__pycache__/pavlova_4_2.cpython-39.pyc
